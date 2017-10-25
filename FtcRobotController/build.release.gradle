@@ -4,6 +4,7 @@ dependencies {
     compile project(':Blocks')
     compile project(':Hardware')
     compile project(':FtcCommon')
+    compile project(':OpenCV330')
     compile (name:'Analytics-release', ext:'aar')
     compile (name:'WirelessP2p-release', ext:'aar')
 }
